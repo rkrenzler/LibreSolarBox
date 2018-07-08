@@ -7,9 +7,11 @@
 -> foto of each part
   - table
   - crimping tool
-  - screwdriver
+  - screwdriver: Tools Sechscantschlussel, Torx 15, Torx 25, Posidrive S2
   - side cutter
   - allen wrench
+  
+  First remove part with socket. To get access to fuse
 - Prepare material and components
   - Frame and Housing (in this case UniProKit)
     - screws, nuts
@@ -36,7 +38,25 @@
      - (optional: epaper display+conncetion wire)
 
 Remarks: Parts in *italic font* still need to be ordered.
+## Disassembly ##
+### Disconnect BMF: ###a
+* Remove FUse
+* BAT+
+* BAT-
+* Klebe not-isolated cable parts.
+* Remove PWR+ cables.
+* Isolate metal end.
+* Remove PWR- cable
+* Isolate metal end.
+* Remove cable from PWR+ of BMS
+* Remove Cable from PWR- 
+* Remove thin cables 
+* Remove interent cables
+* Remove monitor cables
 
+* Shift cables down. Keep them away from Batteries
+* Remove thin cable
+(For future vesion, use different cable color for different socket
 ### Assembly Steps
 1. Frame assembly
 - 1.1 nuts into t-slot profile (
