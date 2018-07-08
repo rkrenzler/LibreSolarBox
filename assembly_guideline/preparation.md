@@ -152,7 +152,7 @@ Start with the bottom part.
 * Connect another side to the bottom.
 * Connect remaining corners and the upper part.
 * Connect small T-profiles to a big square frame. The holes on the side of the large frame must be later outside of the box.
-* Insert missing nut into short profiles. Two nuts into every short profiles on the top of the future box. Three nuts into every short profile on the bottom of the future box.
+* Insert missing nut into short profiles. Two nuts into every short profiles on the top of the future box. Four nuts into every short profile on the bottom of the future box.
 
 ### Assembly the case
 * Add the flore.
