@@ -135,3 +135,17 @@ Before remove the frame pay attention to the nuts in the frame. They can fall do
 We have now two frames and for short aluminiums profiles.
 * Remove screws throw the plastic corners of the both frames.
 * Remove the plastic corners.
+
+## Assembly
+### Assembly frame box
+Create large squre parts first. 
+* Put larger profiles on the table and put plastic coners in the corners. Check orientation of the profiles. The wholes on the side of the upper and the lower profile must be up.
+* Insert all necessary nuts in the T-slots. 
+ Hint: Use a screw to push the square nut into the slot
+* Control the placement of corner, screws and squre nuts.
+Start with the bottom part.
+* Connect a corner to the bottom.
+* Connect a side part to the bottom.
+* Connect another corner to the bottom.
+* Connect another side to the bottom.
+* Connect remaining corners and the upper part.
