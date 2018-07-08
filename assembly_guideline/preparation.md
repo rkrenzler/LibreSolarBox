@@ -59,7 +59,7 @@ Remarks: Parts in *italic font* still need to be ordered.
 * Remove screws from upper plending.
 * Remove screews from handle. Because the handle connects the upper blending with the frame.
 * Remove upper blending with the handles.
-### Remove the blending with interface ###
+### Remove the blending with interface
 Interface are the sockets on the wall.
 * Remove thick cables from blending if they are not soldered.
 * Remove screws from the blending. Put them into a cup.
@@ -72,8 +72,24 @@ Interface are the sockets on the wall.
 * Remove all other cables from MPPT.
 * Remove the interface bleding.
 * Remove PV Input and OUTPUT sockets with cables. Now it is possible.
+* Put away the interface blending
+### Remove MPPT
+* Remove screws which which fix the MPPT
+* Put away MMPT.
+### Remove BMS
+* Remove screws wich hold BMS to battery case.
+* Put away BMS
+### Remove remaining side blendings ###
+* Remove remaining side blending.
+* Put them away
+Now you can easier acces the battery.
 
-
+### Remove battery
+* Carefully remove a screws and conductors from one side of the battery block.
+* Carefully Remove all other metall parts.
+* Put away the battery.
+* Repeat it for all the remaining batteries.
+ 
 (For future vesion, use different cable color for different socket
 ### Assembly Steps
 1. Frame assembly
