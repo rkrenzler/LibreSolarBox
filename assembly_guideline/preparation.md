@@ -138,6 +138,8 @@ We have now two frames and for short aluminiums profiles.
 
 ## Assembly
 ### Assembly frame box
+Note: square nuts are not symmetric. When inserting them into T-Slot keep the upper part outside. See picture [...] to determine the upper side of the nuts.
+
 Create large squre parts first. 
 * Put larger profiles on the table and put plastic coners in the corners. Check orientation of the profiles. The wholes on the side of the upper and the lower profile must be up.
 * Insert all necessary nuts in the T-slots. 
@@ -149,3 +151,8 @@ Start with the bottom part.
 * Connect another corner to the bottom.
 * Connect another side to the bottom.
 * Connect remaining corners and the upper part.
+* Connect small T-profiles to a big square frame. The holes on the side of the large frame must be later outside of the box.
+* Insert missing nut into short profiles. Two nuts into every short profiles on the top of the future box. Three nuts into every short profile on the bottom of the future box.
+
+### Assembly the case
+* Add the flore.
