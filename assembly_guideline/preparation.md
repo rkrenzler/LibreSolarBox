@@ -129,8 +129,9 @@ Now you can easier acces the batteries.
 ### Dissassemble frame
 * Lay the frame on the side. This is a site with the largest area.
 * Remove four upper screws
+Before remove the frame pay attention to the nuts in the frame. They can fall down after the next step.
 * Put away the frame.
 * Remove four screws which connects the remaining frame with the small aluminum profiles.
 We have now two frames and for short aluminiums profiles.
 * Remove screws throw the plastic corners of the both frames.
-* Remove the corners.
+* Remove the plastic corners.
