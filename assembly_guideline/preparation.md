@@ -38,6 +38,44 @@
      - (optional: epaper display+conncetion wire)
 
 Remarks: Parts in *italic font* still need to be ordered.
+### Assembly Steps
+1. Frame assembly
+- 1.1 nuts into t-slot profile (
+
+//comment from Oliver: fotos, which shows for each side the placement (and numbers) of the nuts (sitting in the slots). This is the key-information needed when assembling a box the first time, in order to avoid repeatedly re-opening the frame for adding some forgotten nuts
+
+
+- 1.2 place profile in rectangle, place corner elements between profiles, screw together
+- 1.3 repeat 
+- -> result: 2 connected rectangle frame
+- 1.4 connect the 2 rectangle frames with profile
+- -> result: boxframe
+2. screw bottom plate on bottom side of boxframe
+- -> result: boxframe with bottom plate
+3. cut and crimping wires
+- 3.1 ...
+4. battery pack assembly -> !!!!!safety note!!!!!
+- 4.1 put battery cells in battery case (bottom part)
+- 4.2 connect battery cells together
+- 4.3 connect balancing wires with cells
+- 4.4 connect power wires with battery cells
+- 4.5 screw battery pack with bottom plate
+5. mouting of electric components
+...
+
+### Disassembly Steps
+1. remove blending parts (sides, backs)
+-> pic box, mark sides, mark screws
+2. remove fuse! -> no voltage/ current in system, note for electric safety rules 
+-> pic fuse
+3. remove interface (plugs, swith), by cutting, by 
+-> pic interface, mark points to remove
+4. remove cables from electric components
+-> pic components, pic interface/jack
+5. demount electric parts
+-> pic screws
+6. 
+
 ## Disassembly ##
 ### Disconnect BMF: ###
 * Remove FUse
@@ -89,42 +127,3 @@ Now you can easier acces the battery.
 * Carefully Remove all other metall parts.
 * Put away the battery.
 * Repeat it for all the remaining batteries.
- 
-(For future vesion, use different cable color for different socket
-### Assembly Steps
-1. Frame assembly
-- 1.1 nuts into t-slot profile (
-
-//comment from Oliver: fotos, which shows for each side the placement (and numbers) of the nuts (sitting in the slots). This is the key-information needed when assembling a box the first time, in order to avoid repeatedly re-opening the frame for adding some forgotten nuts
-
-
-- 1.2 place profile in rectangle, place corner elements between profiles, screw together
-- 1.3 repeat 
-- -> result: 2 connected rectangle frame
-- 1.4 connect the 2 rectangle frames with profile
-- -> result: boxframe
-2. screw bottom plate on bottom side of boxframe
-- -> result: boxframe with bottom plate
-3. cut and crimping wires
-- 3.1 ...
-4. battery pack assembly -> !!!!!safety note!!!!!
-- 4.1 put battery cells in battery case (bottom part)
-- 4.2 connect battery cells together
-- 4.3 connect balancing wires with cells
-- 4.4 connect power wires with battery cells
-- 4.5 screw battery pack with bottom plate
-5. mouting of electric components
-...
-
-### Disassembly Steps
-1. remove blending parts (sides, backs)
--> pic box, mark sides, mark screws
-2. remove fuse! -> no voltage/ current in system, note for electric safety rules 
--> pic fuse
-3. remove interface (plugs, swith), by cutting, by 
--> pic interface, mark points to remove
-4. remove cables from electric components
--> pic components, pic interface/jack
-5. demount electric parts
--> pic screws
-6. 
