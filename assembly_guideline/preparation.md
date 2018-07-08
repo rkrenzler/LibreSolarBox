@@ -67,8 +67,11 @@ Interface are the sockets on the wall.
 * Remove CAN SOcket
 * Remove USB power socket
 * Remove two DC Out 1V Socket
-* Do not remove PV INPUT and OUTPUT from interface. In this version it is not mechanically possible. We need to disconnect them from MPPT.
-
+* Do not remove PV INPUT and OUTPUT from interface. In this version it is not mechanically possible yet. We need to disconnect them from MPPT first.
+* Remove PV Input and OUTPUT cables from MPPT.
+* Remove all other cables from MPPT.
+* Remove the interface bleding.
+* Remove PV Input and OUTPUT sockets with cables. Now it is possible.
 
 
 (For future vesion, use different cable color for different socket
