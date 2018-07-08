@@ -120,8 +120,17 @@ Interface are the sockets on the wall.
 Now you can easier acces the batteries.
 
 ### Remove batteries
-* Focus on the first battery in the block. This is the battery closest to the interface blending. 
+* Determine the in wich order you need to remove the batteries. Important is the position of the main plus and main minus. We move from main "-" -- this is the first battery -- to main "+" -- this is the last battery.
 * Carefully remove a screw, an electric connector, and a washer from one side of a battery block.
 * Carefully remove a screw, an electric connector, and a washer from the other side of the battery.
 * Put away the battery.
 * Repeat it for all the remaining batteries.
+
+### Dissassemble frame
+* Lay the frame on the side. This is a site with the largest area.
+* Remove four upper screws
+* Put away the frame.
+* Remove four screws which connects the remaining frame with the small aluminum profiles.
+We have now two frames and for short aluminiums profiles.
+* Remove screws throw the plastic corners of the both frames.
+* Remove the corners.
