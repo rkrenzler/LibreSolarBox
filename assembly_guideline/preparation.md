@@ -77,53 +77,51 @@ Remarks: Parts in *italic font* still need to be ordered.
 6. 
 
 ## Disassembly ##
-### Disconnect BMF: ###
-* Remove FUse
-* BAT+
-* BAT-
-* Klebe not-isolated cable parts.
-* Remove PWR+ cables.
-* Isolate metal end.
-* Remove PWR- cable
-* Isolate metal end.
-* Remove cable from PWR+ of BMS
-* Remove Cable from PWR- 
-* Remove thin cables 
-* Remove interent cables
-* Remove monitor cables
-* Shift cables down. Keep them away from Batteries
-* Remove thin cable
+### Disconnect BMF:
+* Remove Fuse.
+* Remove BAT+ cable. 
+* Mask metal end of the cable .
+* Remove BAT- cable.
+* Mask metal end of the cable.
+* Remove PWR+ cables from BMS.
+* Remove PWR- cables from BMS.
+* Remove thin cables from BMS
+* Remove internet cables from BMS.
+* Remove monitor cables.
+* Move cable ends down. Keep them away from Batteries.
+* Remove thin cables.
 ### Remove upper part of the case
-* Remove screws from upper plending.
-* Remove screews from handle. Because the handle connects the upper blending with the frame.
-* Remove upper blending with the handles.
-### Remove the blending with interface
+* Remove screws from the upper blending.
+* Remove screws from handles.
+* Remove the upper blending with the handles.
+### Remove interface blending
 Interface are the sockets on the wall.
 * Remove thick cables from blending if they are not soldered.
 * Remove screws from the blending. Put them into a cup.
-* Desolder on/off- swich.
-* Remove CAN SOcket
-* Remove USB power socket
-* Remove two DC Out 1V Socket
+* Desolder on/off-swich.
+* Remove CAN Socket.
+* Remove USB power socket.
+* Remove two DC Out 1V Socket.
 * Do not remove PV INPUT and OUTPUT from interface. In this version it is not mechanically possible yet. We need to disconnect them from MPPT first.
 * Remove PV Input and OUTPUT cables from MPPT.
 * Remove all other cables from MPPT.
 * Remove the interface bleding.
-* Remove PV Input and OUTPUT sockets with cables. Now it is possible.
-* Put away the interface blending
+* Remove PV Input and OUTPUT sockets with cables. Now it is possible to do.
+* Put away the interface blending.
 ### Remove MPPT
-* Remove screws which which fix the MPPT
-* Put away MMPT.
+* Remove screws which fix the MPPT.
+* Put away MPPT.
 ### Remove BMS
 * Remove screws wich hold BMS to battery case.
-* Put away BMS
-### Remove remaining side blendings ###
-* Remove remaining side blending.
-* Put them away
-Now you can easier acces the battery.
+* Put away BMS.
+### Remove remaining side blendings
+* Remove remaining side blending and put them away.
 
-### Remove battery
-* Carefully remove a screws and conductors from one side of the battery block.
-* Carefully Remove all other metall parts.
+Now you can easier acces the batteries.
+
+### Remove batteries
+* Focus on the first battery in the block. This is the battery closest to the interface blending. 
+* Carefully remove a screw, an electric connector, and a washer from one side of a battery block.
+* Carefully remove a screw, an electric connector, and a washer from the other side of the battery.
 * Put away the battery.
 * Repeat it for all the remaining batteries.
