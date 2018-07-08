@@ -39,7 +39,7 @@
 
 Remarks: Parts in *italic font* still need to be ordered.
 ## Disassembly ##
-### Disconnect BMF: ###a
+### Disconnect BMF: ###
 * Remove FUse
 * BAT+
 * BAT-
@@ -53,9 +53,24 @@ Remarks: Parts in *italic font* still need to be ordered.
 * Remove thin cables 
 * Remove interent cables
 * Remove monitor cables
-
 * Shift cables down. Keep them away from Batteries
 * Remove thin cable
+### Remove upper part of the case
+* Remove screws from upper plending.
+* Remove screews from handle. Because the handle connects the upper blending with the frame.
+* Remove upper blending with the handles.
+### Remove the blending with interface ###
+Interface are the sockets on the wall.
+* Remove thick cables from blending if they are not soldered.
+* Remove screws from the blending. Put them into a cup.
+* Desolder on/off- swich.
+* Remove CAN SOcket
+* Remove USB power socket
+* Remove two DC Out 1V Socket
+* Do not remove PV INPUT and OUTPUT from interface. In this version it is not mechanically possible. We need to disconnect them from MPPT.
+
+
+
 (For future vesion, use different cable color for different socket
 ### Assembly Steps
 1. Frame assembly
