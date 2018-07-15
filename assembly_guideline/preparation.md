@@ -188,3 +188,18 @@ The interface is blending is the blending with sockets.
 ### Connect to MPPT
 * Connect all cable ends without blade connectors to MPPT.
 * Check that these cable are well mounted.
+
+### Connect battery block
+(In this part BAT- and BAT+ seems to be confused.I need resolve it.)
+* Remove isolation from main **-**.
+* Connect two cables to main **-**.
+* Connect thick blue cable to *BAT-* on BMS.
+* Connect two cables to main **-**
+* Connect balancing to *BAT-* on BMS. (Is this correct?)
+(Must the on/off switch must be off before add the fuse? How one can see it?
+* Add fuse.
+* Check the Voltage (where?): It must be around 12.8 V.
+* Switch off the on/off switch.
+* Check the Voltages it must be falling until 0. The voltage does not drop imidiatelly t0 0, because There is remaining electric charge in the capacitors.
+* Swich on.
+* Check Voltage between *POW+* and *POW-*. It must be about 12.8V.
