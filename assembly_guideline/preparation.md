@@ -203,6 +203,7 @@ The interface is blending is the blending with sockets.
 * Check the Voltages it must be falling until 0. The voltage does not drop imidiatelly t0 0, because There is remaining electric charge in the capacitors.
 * Swich on.
 * Check Voltage between *POW+* and *POW-*. It must be about 12.8V.
+* Remove the fuse. (I missted this step in my notes. Is it correct here?).
 
 ### Connect Raspberry
 * Connect  an internet cable to Raspberry
@@ -231,3 +232,11 @@ The interface is blending is the blending with sockets.
 * Put handles on the top blending.
 * Insert **longer** bolts through the handles, the blending and squre nuts. Use normal bolts for other parts of the blending.
 * Tighten the blending.
+
+### Mount last side blending
+* Check once more if all the connection are good.
+* Insert the fuse.
+* Put the SolarBox on the side.
+* POsition the squre nuts.
+* Add the blending
+* Tighten the bolts.
