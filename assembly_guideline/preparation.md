@@ -154,5 +154,20 @@ Start with the bottom part.
 * Connect small T-profiles to a big square frame. The holes on the side of the large frame must be later outside of the box.
 * Insert missing nut into short profiles. Two nuts into every short profiles on the top of the future box. Four nuts into every short profile on the bottom of the future box.
 
-### Assembly the case
-* Add the flore.
+### Add bottom
+* Add the bottom blending.
+### Add batteries
+* Mark the batteries with numbers *1*, *2*, *3*, and *4*.
+* Put batteries into the battery case.
+* Isolate main **+** and main **-** of the batteries. (Is it important to have main "+" or "-" on particular side of the battery block?"
+Now carrefully connect batteries one by one, from *4* to *1*.
+* Put connector between *4* and *3*.
+
+* Put a washer on the connector on the side *4*.
+* Put thin cable with tag *4* on the washer
+* Put nother washer on the connector of the thin cable. (Too many washers, check it again).
+* Put a bolt throw connector, washers and thin cable and  tighten it. (bots or screws?).
+* Put a washer on connector on side *3*.
+* Put a bolt throw the washer and the connector and tighten it.
+* Connect in the simmilar way batteries *3* with *2* and *2* with *1*.
+* Do **not** remove isolation from main **+** and main **-** yet.
