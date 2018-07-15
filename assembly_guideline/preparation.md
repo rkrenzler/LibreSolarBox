@@ -223,3 +223,11 @@ The interface is blending is the blending with sockets.
 * Position the squre nuts.
 * Put the blending on the frame.
 * Insert bolts through the blending into the square  nuts. Thighten the bolts.
+
+### Mount to blending with handles.
+* Put the SolarBox on the bottom.
+* Position squre nuts for the top blending
+* Put top blending
+* Put handles on the top blending.
+* Insert **longer** bolts through the handles, the blending and squre nuts. Use normal bolts for other parts of the blending.
+* Tighten the blending.
