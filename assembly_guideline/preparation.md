@@ -203,3 +203,12 @@ The interface is blending is the blending with sockets.
 * Check the Voltages it must be falling until 0. The voltage does not drop imidiatelly t0 0, because There is remaining electric charge in the capacitors.
 * Swich on.
 * Check Voltage between *POW+* and *POW-*. It must be about 12.8V.
+
+### Connect Raspberry
+* Connect  an internet cable to Raspberry
+* Connect the internet cable to BMS.
+* Connect an internet cable to CAN socket on the blending.
+* Connect the other end of the cable to BMS.
+* Mount Raspbery with two-side tape to the box.
+
+*
