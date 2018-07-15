@@ -171,3 +171,20 @@ Now carrefully connect batteries one by one, from *4* to *1*.
 * Put a bolt throw the washer and the connector and tighten it.
 * Connect in the simmilar way batteries *3* with *2* and *2* with *1*.
 * Do **not** remove isolation from main **+** and main **-** yet.
+
+### Assembly interface bleding
+The interface is blending is the blending with sockets.
+* Put sockets with cables into the blending
+* Mount the interface bleding to the frame
+
+### Connect BMS
+* Solder cablers to the on/off-switch.
+* Mount blue thick cables and USB+ to *PWR-* of BMS.
+* Mount red thkc cables and USB- to *PWR+* of BMS.
+* Connect two blue cables (- or +?) to two DC out sockets.
+* Connect two red cables to two DC out sockets.
+* Connect two thin cables from on/off-switch to BMS
+
+### Connect to MPPT
+* Connect all cable ends without blade connectors to MPPT.
+* Check that these cable are well mounted.
