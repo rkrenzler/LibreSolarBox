@@ -211,4 +211,9 @@ The interface is blending is the blending with sockets.
 * Connect the other end of the cable to BMS.
 * Mount Raspbery with two-side tape to the box.
 
-*
+### Add back blending
+(Better do it before interface blending because the inteface blending is not flat.)
+* Lay Solar box on the interface 
+* Position squre nuts. They must have the same position as the holes of the front blending.
+* Put blending on the frame.
+* Insert bolts throw the blending into the squre nuts. Thighten the bolts.
